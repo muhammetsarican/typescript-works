@@ -1,0 +1,2 @@
+# I didn't upload js files, you can create them with writing "tsc ts_file_name.ts" in terminal where the ts file located.
+*.js 
